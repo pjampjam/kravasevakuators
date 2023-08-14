@@ -1,0 +1,300 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuators.lv" resolutions="1x" timestamp="1692011923637">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_c-master.css" crc="3793514081" ref="kravas-evakuators-en"/>
+    <file name="nomq_preview_master_c-master.css" crc="4273447711" ref="kravas-evakuators-en"/>
+    <file name="master_a-master.css" crc="4031294020" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3785664123" ref="index"/>
+    <file name="master_b-master.css" crc="4128351415" ref="kravas-evakuators-ru"/>
+    <file name="nomq_preview_master_b-master.css" crc="405021020" ref="kravas-evakuators-ru"/>
+    <file name="kravas-evakuators-en.css" crc="192567758" ref="kravas-evakuators-en"/>
+    <file name="nomq_kravas-evakuators-en.css" crc="369990795" ref="kravas-evakuators-en"/>
+    <file name="index.css" crc="96324865" ref="index"/>
+    <file name="nomq_index.css" crc="431862431" ref="index"/>
+    <file name="kravas-evakuators-ru.css" crc="4124912274" ref="kravas-evakuators-ru"/>
+    <file name="nomq_kravas-evakuators-ru.css" crc="4023348617" ref="kravas-evakuators-ru"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
+    <file name="museutils.js" crc="3939489907" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
+    <file name="whatinput.js" crc="86476730" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
+    <file name="museconfig.js" crc="128606099" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
+    <file name="webpro.js" crc="3856315280" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
+    <file name="require.js" crc="4177726516" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
+    <file name="u2787-4.png" crc="454389518" ref="index"/>
+    <file name="ikonas lowres updated-09-u2039.png" crc="174495487" ref="index"/>
+    <file name="u3212_states.png" crc="3979002136" ref="index"/>
+    <file name="u3212_states-r.png" crc="289802758" ref="index"/>
+    <file name="u3211_states.png" crc="440305041" ref="index"/>
+    <file name="u3211_states-r.png" crc="4076560585" ref="index"/>
+    <file name="u3210_states.png" crc="4258541601" ref="index"/>
+    <file name="u3210_states-r.png" crc="3782212544" ref="index"/>
+    <file name="u3956_states.png" crc="3852624855" ref="index"/>
+    <file name="u3956_states-r.png" crc="4182766843" ref="index"/>
+    <file name="u4123_states.png" crc="4162409704" ref="index"/>
+    <file name="u4123_states-r.png" crc="106230305" ref="index"/>
+    <file name="u4132_states.png" crc="497833041" ref="index"/>
+    <file name="u4132_states-r.png" crc="3966819701" ref="index"/>
+    <file name="u809-4.png" crc="454389518" ref="index"/>
+    <file name="u4725-4.png" crc="245477242" ref="index"/>
+    <file name="apstradatas bildes-09.jpg" crc="3921417706" seo="true" ref="index:kravas-evakuators-ru:kravas-evakuators-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-10.jpg" crc="461935842" seo="true" ref="index:kravas-evakuators-ru:kravas-evakuators-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-11.jpg" crc="3824072805" seo="true" ref="index:kravas-evakuators-ru:kravas-evakuators-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-12.jpg" crc="187488442" seo="true" ref="index:kravas-evakuators-ru:kravas-evakuators-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-13.jpg" crc="122851758" seo="true" ref="index:kravas-evakuators-ru:kravas-evakuators-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-14.jpg" crc="137664880" seo="true" ref="index:kravas-evakuators-ru:kravas-evakuators-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-15.jpg" crc="191142879" seo="true" ref="index:kravas-evakuators-ru:kravas-evakuators-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
+    <file name="u2761-9.png" crc="4037260801" ref="index"/>
+    <file name="u2572-4.png" crc="78092929" ref="index"/>
+    <file name="u4877-10.png" crc="3762153398" ref="index"/>
+    <file name="u4735-19.png" crc="42311368" ref="index"/>
+    <file name="u5750-11.png" crc="22991570" ref="index"/>
+    <file name="u5732-9.png" crc="426646123" ref="index"/>
+    <file name="u5786-7.png" crc="3791143152" ref="index"/>
+    <file name="u5713-4.png" crc="317921572" ref="index"/>
+    <file name="u2787-42.png" crc="262596394" ref="index"/>
+    <file name="apstradatas bildes-09-crop-u1542.jpg" crc="3831273207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apstradatas bildes-10-crop-u1743.jpg" crc="354017048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apstradatas bildes-11-crop-u1785.jpg" crc="3880198718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apstradatas bildes-12-crop-u1827.jpg" crc="3759016517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apstradatas bildes-13-crop-u1869.jpg" crc="286485690" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apstradatas bildes-14-crop-u1911.jpg" crc="3867255441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apstradatas bildes-15-crop-u1953.jpg" crc="3805396851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2761-92.png" crc="369619846" ref="index"/>
+    <file name="u2572-42.png" crc="78092929" ref="index"/>
+    <file name="u4877-102.png" crc="4177527679" ref="index"/>
+    <file name="u4735-192.png" crc="4219535111" ref="index"/>
+    <file name="apstradatas bildes-09-crop-u15422.jpg" crc="91053049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apstradatas bildes-10-crop-u17432.jpg" crc="4141970438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apstradatas bildes-11-crop-u17852.jpg" crc="4251080377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apstradatas bildes-12-crop-u18272.jpg" crc="507869609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apstradatas bildes-13-crop-u18692.jpg" crc="32682244" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apstradatas bildes-14-crop-u19112.jpg" crc="436893453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apstradatas bildes-15-crop-u19532.jpg" crc="533400405" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2572-43.png" crc="135941753" ref="index"/>
+    <file name="u2761-93.png" crc="4163380198" ref="index"/>
+    <file name="u2787-43.png" crc="421748602" ref="index"/>
+    <file name="u4877-103.png" crc="3943437815" ref="index"/>
+    <file name="u4735-193.png" crc="4269763867" ref="index"/>
+    <file name="u5892-4.png" crc="454389518" ref="kravas-evakuators-ru"/>
+    <file name="ikonas lowres updated-ru-u4634.png" crc="473691917" ref="kravas-evakuators-ru"/>
+    <file name="u4442_states.png" crc="259066213" ref="kravas-evakuators-ru"/>
+    <file name="u4442_states-r.png" crc="216685360" ref="kravas-evakuators-ru"/>
+    <file name="u4440_states.png" crc="4218719430" ref="kravas-evakuators-ru"/>
+    <file name="u4440_states-r.png" crc="410320614" ref="kravas-evakuators-ru"/>
+    <file name="u4439_states.png" crc="3825786652" ref="kravas-evakuators-ru"/>
+    <file name="u4439_states-r.png" crc="3893116986" ref="kravas-evakuators-ru"/>
+    <file name="u4437_states.png" crc="3852624855" ref="kravas-evakuators-ru"/>
+    <file name="u4437_states-r.png" crc="4182766843" ref="kravas-evakuators-ru"/>
+    <file name="u4441_states.png" crc="4162409704" ref="kravas-evakuators-ru"/>
+    <file name="u4441_states-r.png" crc="106230305" ref="kravas-evakuators-ru"/>
+    <file name="u4438_states.png" crc="497833041" ref="kravas-evakuators-ru"/>
+    <file name="u4438_states-r.png" crc="3966819701" ref="kravas-evakuators-ru"/>
+    <file name="u4448-4.png" crc="454389518" ref="kravas-evakuators-ru"/>
+    <file name="u6726-4.png" crc="4005815808" ref="kravas-evakuators-ru"/>
+    <file name="u5868-8.png" crc="3803620962" ref="kravas-evakuators-ru"/>
+    <file name="u5873-4.png" crc="4134123206" ref="kravas-evakuators-ru"/>
+    <file name="u5879-6.png" crc="3838493635" ref="kravas-evakuators-ru"/>
+    <file name="u5887-19.png" crc="4289010232" ref="kravas-evakuators-ru"/>
+    <file name="u6646-9.png" crc="22268981" ref="kravas-evakuators-ru"/>
+    <file name="u6644-9.png" crc="3991302645" ref="kravas-evakuators-ru"/>
+    <file name="u6645-7.png" crc="233498749" ref="kravas-evakuators-ru"/>
+    <file name="u6643-4.png" crc="317921572" ref="kravas-evakuators-ru"/>
+    <file name="u5892-42.png" crc="262596394" ref="kravas-evakuators-ru"/>
+    <file name="apstradatas bildes-09728x455.jpg" crc="49044116" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="apstradatas bildes-10728x455.jpg" crc="3873798540" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="apstradatas bildes-11-crop-u5854.jpg" crc="269718490" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="apstradatas bildes-12730x456.jpg" crc="450716210" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="apstradatas bildes-13728x455.jpg" crc="3873532960" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="apstradatas bildes-14730x456.jpg" crc="21085164" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="apstradatas bildes-15730x456.jpg" crc="481867723" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="u5868-82.png" crc="240207390" ref="kravas-evakuators-ru"/>
+    <file name="u5873-42.png" crc="78092929" ref="kravas-evakuators-ru"/>
+    <file name="u5879-62.png" crc="414419016" ref="kravas-evakuators-ru"/>
+    <file name="u5887-192.png" crc="12691304" ref="kravas-evakuators-ru"/>
+    <file name="apstradatas bildes-09-crop-u5850.jpg" crc="91053049" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="apstradatas bildes-10-crop-u5862.jpg" crc="4141970438" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="apstradatas bildes-11-crop-u58542.jpg" crc="4251080377" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="apstradatas bildes-12-crop-u5856.jpg" crc="466038208" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="apstradatas bildes-13-crop-u5860.jpg" crc="3954716339" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="apstradatas bildes-14-crop-u5858.jpg" crc="436893453" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="apstradatas bildes-15-crop-u5852.jpg" crc="533400405" seo="true" ref="kravas-evakuators-ru">
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+    </file>
+    <file name="u5873-43.png" crc="135941753" ref="kravas-evakuators-ru"/>
+    <file name="u5868-83.png" crc="505897787" ref="kravas-evakuators-ru"/>
+    <file name="u5892-43.png" crc="421748602" ref="kravas-evakuators-ru"/>
+    <file name="u5879-63.png" crc="4077066133" ref="kravas-evakuators-ru"/>
+    <file name="u5887-193.png" crc="340441131" ref="kravas-evakuators-ru"/>
+    <file name="u6422-4.png" crc="454389518" ref="kravas-evakuators-en"/>
+    <file name="ikonas lowres updated-en-u4610.png" crc="196649077" ref="kravas-evakuators-en"/>
+    <file name="u4544_states.png" crc="297573199" ref="kravas-evakuators-en"/>
+    <file name="u4544_states-r.png" crc="410503807" ref="kravas-evakuators-en"/>
+    <file name="u4545_states.png" crc="14620520" ref="kravas-evakuators-en"/>
+    <file name="u4545_states-r.png" crc="4152887606" ref="kravas-evakuators-en"/>
+    <file name="u4547_states.png" crc="278074920" ref="kravas-evakuators-en"/>
+    <file name="u4547_states-r.png" crc="301610623" ref="kravas-evakuators-en"/>
+    <file name="u4543_states.png" crc="3852624855" ref="kravas-evakuators-en"/>
+    <file name="u4543_states-r.png" crc="4182766843" ref="kravas-evakuators-en"/>
+    <file name="u4546_states.png" crc="4162409704" ref="kravas-evakuators-en"/>
+    <file name="u4546_states-r.png" crc="106230305" ref="kravas-evakuators-en"/>
+    <file name="u4542_states.png" crc="497833041" ref="kravas-evakuators-en"/>
+    <file name="u4542_states-r.png" crc="3966819701" ref="kravas-evakuators-en"/>
+    <file name="u4551-4.png" crc="454389518" ref="kravas-evakuators-en"/>
+    <file name="u6761-4.png" crc="3994508514" ref="kravas-evakuators-en"/>
+    <file name="u6397-9.png" crc="312752903" ref="kravas-evakuators-en"/>
+    <file name="u6401-4.png" crc="78092929" ref="kravas-evakuators-en"/>
+    <file name="u6407-6.png" crc="4256808402" ref="kravas-evakuators-en"/>
+    <file name="u6415-19.png" crc="150347918" ref="kravas-evakuators-en"/>
+    <file name="u6683-11.png" crc="3877073316" ref="kravas-evakuators-en"/>
+    <file name="u6681-9.png" crc="3909000581" ref="kravas-evakuators-en"/>
+    <file name="u6682-7.png" crc="4088801349" ref="kravas-evakuators-en"/>
+    <file name="u6680-4.png" crc="317921572" ref="kravas-evakuators-en"/>
+    <file name="u6422-42.png" crc="262596394" ref="kravas-evakuators-en"/>
+    <file name="apstradatas bildes-09-crop-u6354.jpg" crc="121989918" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-10-crop-u6364.jpg" crc="354017048" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-11-crop-u6358.jpg" crc="3880198718" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-12-crop-u6356.jpg" crc="342559337" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-13-crop-u6360.jpg" crc="286485690" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-14-crop-u6362.jpg" crc="3867255441" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-15-crop-u6352.jpg" crc="3805396851" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="u6397-92.png" crc="8369821" ref="kravas-evakuators-en"/>
+    <file name="u6401-42.png" crc="78092929" ref="kravas-evakuators-en"/>
+    <file name="u6407-62.png" crc="4107626267" ref="kravas-evakuators-en"/>
+    <file name="u6415-192.png" crc="154792388" ref="kravas-evakuators-en"/>
+    <file name="apstradatas bildes-09-crop-u63542.jpg" crc="91053049" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-10-crop-u63642.jpg" crc="4141970438" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-11-crop-u63582.jpg" crc="4251080377" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-12-crop-u63562.jpg" crc="466038208" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-13-crop-u63602.jpg" crc="3954716339" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-14-crop-u63622.jpg" crc="436893453" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="apstradatas bildes-15-crop-u63522.jpg" crc="533400405" seo="true" ref="kravas-evakuators-en">
+      <caption webpage="kravas-evakuators-en" alt=""/>
+    </file>
+    <file name="u6397-93.png" crc="491493023" ref="kravas-evakuators-en"/>
+    <file name="u6422-43.png" crc="421748602" ref="kravas-evakuators-en"/>
+    <file name="u6407-63.png" crc="3837324195" ref="kravas-evakuators-en"/>
+    <file name="u6415-193.png" crc="3948148035" ref="kravas-evakuators-en"/>
+    <file name="u6401-43.png" crc="135941753" ref="kravas-evakuators-en"/>
+  </folder>
+  <file name="index.html" crc="3786341008" seo="true" mt="1692011737853" redirect="true"/>
+  <file name="kravas-evakuators-ru.html" crc="198184193" seo="true" mt="1692011905769" redirect="true"/>
+  <file name="kravas-evakuators-en.html" crc="4044822801" seo="true" mt="1692011757148" redirect="true"/>
+</manifest>
