@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuators.lv" resolutions="1x" timestamp="1692025281662">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuators.lv" resolutions="1x" timestamp="1692026000338">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_c-master.css" crc="100556781" ref="kravas-evakuators-en"/>
-    <file name="nomq_preview_master_c-master.css" crc="3809647924" ref="kravas-evakuators-en"/>
-    <file name="master_b-master.css" crc="4290691257" ref="kravas-evakuators-ru"/>
-    <file name="nomq_preview_master_b-master.css" crc="4197127094" ref="kravas-evakuators-ru"/>
-    <file name="master_a-master.css" crc="468137633" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3904145927" ref="index"/>
-    <file name="index.css" crc="4252027462" ref="index"/>
-    <file name="nomq_index.css" crc="4056819503" ref="index"/>
-    <file name="kravas-evakuators-ru.css" crc="3787146312" ref="kravas-evakuators-ru"/>
-    <file name="nomq_kravas-evakuators-ru.css" crc="4025397532" ref="kravas-evakuators-ru"/>
-    <file name="kravas-evakuators-en.css" crc="4111158670" ref="kravas-evakuators-en"/>
-    <file name="nomq_kravas-evakuators-en.css" crc="36532590" ref="kravas-evakuators-en"/>
+    <file name="master_c-master.css" crc="4253471993" ref="kravas-evakuators-en"/>
+    <file name="nomq_preview_master_c-master.css" crc="515520680" ref="kravas-evakuators-en"/>
+    <file name="master_b-master.css" crc="292340194" ref="kravas-evakuators-ru"/>
+    <file name="nomq_preview_master_b-master.css" crc="4199915760" ref="kravas-evakuators-ru"/>
+    <file name="master_a-master.css" crc="499505510" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="318697725" ref="index"/>
+    <file name="kravas-evakuators-en.css" crc="313886791" ref="kravas-evakuators-en"/>
+    <file name="nomq_kravas-evakuators-en.css" crc="4160524672" ref="kravas-evakuators-en"/>
+    <file name="index.css" crc="13393289" ref="index"/>
+    <file name="nomq_index.css" crc="296340354" ref="index"/>
+    <file name="kravas-evakuators-ru.css" crc="171776405" ref="kravas-evakuators-ru"/>
+    <file name="nomq_kravas-evakuators-ru.css" crc="4061435855" ref="kravas-evakuators-ru"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
@@ -48,78 +48,78 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
     </file>
     <file name="apstradatas bildes-10.jpg" crc="461935842" seo="true" ref="index:kravas-evakuators-ru:kravas-evakuators-en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
     </file>
     <file name="apstradatas bildes-11.jpg" crc="3824072805" seo="true" ref="index:kravas-evakuators-ru:kravas-evakuators-en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
     </file>
     <file name="apstradatas bildes-12.jpg" crc="187488442" seo="true" ref="index:kravas-evakuators-ru:kravas-evakuators-en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
     </file>
     <file name="apstradatas bildes-13.jpg" crc="122851758" seo="true" ref="index:kravas-evakuators-ru:kravas-evakuators-en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
     </file>
     <file name="apstradatas bildes-14.jpg" crc="137664880" seo="true" ref="index:kravas-evakuators-ru:kravas-evakuators-en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
     </file>
     <file name="apstradatas bildes-15.jpg" crc="191142879" seo="true" ref="index:kravas-evakuators-ru:kravas-evakuators-en">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
-      <caption webpage="kravas-evakuators-ru" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
       <caption webpage="kravas-evakuators-en" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
+      <caption webpage="kravas-evakuators-ru" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:kravas-evakuators-ru:kravas-evakuators-en"/>
     <file name="u2761-9.png" crc="4037260801" ref="index"/>
@@ -127,8 +127,8 @@
     <file name="u4877-6.png" crc="4007091606" ref="index"/>
     <file name="u4735-14.png" crc="57235050" ref="index"/>
     <file name="u5750-11.png" crc="22991570" ref="index"/>
-    <file name="u5732-9.png" crc="426646123" ref="index"/>
-    <file name="u5786-7.png" crc="3791143152" ref="index"/>
+    <file name="u5732-9.png" crc="3905908683" ref="index"/>
+    <file name="u5786-7.png" crc="10965835" ref="index"/>
     <file name="u5713-4.png" crc="317921572" ref="index"/>
     <file name="u2761-92.png" crc="369619846" ref="index"/>
     <file name="u2572-42.png" crc="78092929" ref="index"/>
@@ -158,8 +158,8 @@
     <file name="u5879-6.png" crc="357370561" ref="kravas-evakuators-ru"/>
     <file name="u5887-14.png" crc="4084564058" ref="kravas-evakuators-ru"/>
     <file name="u6646-9.png" crc="22268981" ref="kravas-evakuators-ru"/>
-    <file name="u6644-9.png" crc="3991302645" ref="kravas-evakuators-ru"/>
-    <file name="u6645-7.png" crc="233498749" ref="kravas-evakuators-ru"/>
+    <file name="u6644-9.png" crc="3972911744" ref="kravas-evakuators-ru"/>
+    <file name="u6645-7.png" crc="160255499" ref="kravas-evakuators-ru"/>
     <file name="u6643-4.png" crc="317921572" ref="kravas-evakuators-ru"/>
     <file name="u5868-82.png" crc="240207390" ref="kravas-evakuators-ru"/>
     <file name="u5873-42.png" crc="78092929" ref="kravas-evakuators-ru"/>
@@ -188,10 +188,10 @@
     <file name="u6401-4.png" crc="78092929" ref="kravas-evakuators-en"/>
     <file name="u6407-6.png" crc="4256808402" ref="kravas-evakuators-en"/>
     <file name="u6415-14.png" crc="21760230" ref="kravas-evakuators-en"/>
-    <file name="u6683-11.png" crc="3877073316" ref="kravas-evakuators-en"/>
-    <file name="u6681-9.png" crc="3909000581" ref="kravas-evakuators-en"/>
-    <file name="u6682-7.png" crc="4088801349" ref="kravas-evakuators-en"/>
-    <file name="u6680-4.png" crc="317921572" ref="kravas-evakuators-en"/>
+    <file name="u6683-11.png" crc="3989330571" ref="kravas-evakuators-en"/>
+    <file name="u6681-9.png" crc="430828357" ref="kravas-evakuators-en"/>
+    <file name="u6682-7.png" crc="4254569397" ref="kravas-evakuators-en"/>
+    <file name="u6680-4.png" crc="4180119674" ref="kravas-evakuators-en"/>
     <file name="u6397-92.png" crc="381083658" ref="kravas-evakuators-en"/>
     <file name="u6401-42.png" crc="78092929" ref="kravas-evakuators-en"/>
     <file name="u6407-62.png" crc="4107626267" ref="kravas-evakuators-en"/>
@@ -201,7 +201,7 @@
     <file name="u6407-63.png" crc="54762240" ref="kravas-evakuators-en"/>
     <file name="u6415-143.png" crc="38852877" ref="kravas-evakuators-en"/>
   </folder>
-  <file name="index.html" crc="3834792745" seo="true" mt="1692025238202" redirect="true"/>
-  <file name="kravas-evakuators-ru.html" crc="4071506512" seo="true" mt="1692025248400" redirect="true"/>
-  <file name="kravas-evakuators-en.html" crc="530760645" seo="true" mt="1692025251461" redirect="true"/>
+  <file name="index.html" crc="3910321578" seo="true" mt="1692025786287" redirect="true"/>
+  <file name="kravas-evakuators-ru.html" crc="3838699266" seo="true" mt="1692025878421" redirect="true"/>
+  <file name="kravas-evakuators-en.html" crc="4093145578" seo="true" mt="1692025967310" redirect="true"/>
 </manifest>
