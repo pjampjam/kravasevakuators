@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuators.lv" resolutions="1x" timestamp="1705856925775">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuators.lv" resolutions="1x" timestamp="1705857546947">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4244808709" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="354413160" ref="index"/>
-    <file name="master_b-master.css" crc="452556931" ref="kravas-evakuators-ru"/>
-    <file name="nomq_preview_master_b-master.css" crc="417178114" ref="kravas-evakuators-ru"/>
-    <file name="master_c-master.css" crc="110972399" ref="kravas-evakuators-en"/>
-    <file name="nomq_preview_master_c-master.css" crc="4079822681" ref="kravas-evakuators-en"/>
-    <file name="index.css" crc="257911001" ref="index"/>
-    <file name="nomq_index.css" crc="4156400189" ref="index"/>
-    <file name="kravas-evakuators-ru.css" crc="213431481" ref="kravas-evakuators-ru"/>
-    <file name="nomq_kravas-evakuators-ru.css" crc="152220139" ref="kravas-evakuators-ru"/>
-    <file name="kravas-evakuators-en.css" crc="28738009" ref="kravas-evakuators-en"/>
-    <file name="nomq_kravas-evakuators-en.css" crc="3793045269" ref="kravas-evakuators-en"/>
+    <file name="master_a-master.css" crc="4208100579" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3831004635" ref="index"/>
+    <file name="master_b-master.css" crc="3837120046" ref="kravas-evakuators-ru"/>
+    <file name="nomq_preview_master_b-master.css" crc="3919197617" ref="kravas-evakuators-ru"/>
+    <file name="master_c-master.css" crc="4038906475" ref="kravas-evakuators-en"/>
+    <file name="nomq_preview_master_c-master.css" crc="84525431" ref="kravas-evakuators-en"/>
+    <file name="index.css" crc="277907583" ref="index"/>
+    <file name="nomq_index.css" crc="102693719" ref="index"/>
+    <file name="kravas-evakuators-ru.css" crc="3817576220" ref="kravas-evakuators-ru"/>
+    <file name="nomq_kravas-evakuators-ru.css" crc="200245291" ref="kravas-evakuators-ru"/>
+    <file name="kravas-evakuators-en.css" crc="174186060" ref="kravas-evakuators-en"/>
+    <file name="nomq_kravas-evakuators-en.css" crc="3926853204" ref="kravas-evakuators-en"/>
   </folder>
   <folder name="fonts">
     <file name="notosans-regular.woff" crc="4043041365"/>
@@ -198,7 +198,7 @@
     <file name="u6401-42.png" crc="78092929" ref="kravas-evakuators-en"/>
     <file name="u6401-43.png" crc="78092929" ref="kravas-evakuators-en"/>
   </folder>
-  <file name="index.html" crc="3866157513" seo="true" mt="1705856884546" redirect="true"/>
-  <file name="kravas-evakuators-ru.html" crc="4044576479" seo="true" mt="1705856904256" redirect="true"/>
-  <file name="kravas-evakuators-en.html" crc="248437031" seo="true" mt="1705856913283" redirect="true"/>
+  <file name="index.html" crc="4188333732" seo="true" mt="1705857417831" redirect="true"/>
+  <file name="kravas-evakuators-ru.html" crc="4002493726" seo="true" mt="1705857517891" redirect="true"/>
+  <file name="kravas-evakuators-en.html" crc="4144997598" seo="true" mt="1705857507643" redirect="true"/>
 </manifest>
