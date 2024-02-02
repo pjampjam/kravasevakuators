@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kravasevakuators.lv/index.html</loc>
-    <lastmod>2024-02-01</lastmod>
+    <lastmod>2024-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -24,9 +24,6 @@
       <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv-06.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv-07.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv-08.jpg</image:loc>
     </image:image>
     <image:image>
@@ -34,11 +31,26 @@
     </image:image>
     <image:image>
       <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv-10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%205.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://kravasevakuators.lv/ru.html</loc>
-    <lastmod>2024-02-01</lastmod>
+    <lastmod>2024-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -60,9 +72,6 @@
       <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv-06.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv-07.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv-08.jpg</image:loc>
     </image:image>
     <image:image>
@@ -70,11 +79,26 @@
     </image:image>
     <image:image>
       <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv-10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%205.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://kravasevakuators.lv/en.html</loc>
-    <lastmod>2024-02-01</lastmod>
+    <lastmod>2024-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -96,9 +120,6 @@
       <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv-06.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv-07.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv-08.jpg</image:loc>
     </image:image>
     <image:image>
@@ -106,6 +127,21 @@
     </image:image>
     <image:image>
       <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv-10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kravasevakuators.lv/images/kravasevakuatorlv%205.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
