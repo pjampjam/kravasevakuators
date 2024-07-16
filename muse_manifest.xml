@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuator.lv" resolutions="1x,2x" timestamp="1721159488339">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kravasevakuator.lv" resolutions="1x,2x" timestamp="1721159644791">
   <folder name="css">
     <file name="site_global.css" crc="125038031"/>
-    <file name="master_master-lv.css" crc="236187965" ref="index"/>
-    <file name="nomq_preview_master_master-lv.css" crc="57405959" ref="index"/>
-    <file name="master_master-ru.css" crc="376881434" ref="ru"/>
-    <file name="nomq_preview_master_master-ru.css" crc="124384678" ref="ru"/>
-    <file name="master_master-en.css" crc="172920460" ref="en"/>
-    <file name="nomq_preview_master_master-en.css" crc="350458115" ref="en"/>
-    <file name="index.css" crc="503200741" ref="index"/>
-    <file name="nomq_index.css" crc="3885784759" ref="index"/>
-    <file name="ru.css" crc="209583347" ref="ru"/>
-    <file name="nomq_ru.css" crc="4197156220" ref="ru"/>
-    <file name="en.css" crc="171067609" ref="en"/>
-    <file name="nomq_en.css" crc="125825493" ref="en"/>
+    <file name="master_master-lv.css" crc="78835302" ref="index"/>
+    <file name="nomq_preview_master_master-lv.css" crc="454149157" ref="index"/>
+    <file name="master_master-ru.css" crc="20393679" ref="ru"/>
+    <file name="nomq_preview_master_master-ru.css" crc="15248926" ref="ru"/>
+    <file name="master_master-en.css" crc="3839981600" ref="en"/>
+    <file name="nomq_preview_master_master-en.css" crc="107021278" ref="en"/>
+    <file name="index.css" crc="3969963275" ref="index"/>
+    <file name="nomq_index.css" crc="183575523" ref="index"/>
+    <file name="ru.css" crc="4105910487" ref="ru"/>
+    <file name="nomq_ru.css" crc="4263379530" ref="ru"/>
+    <file name="en.css" crc="457876276" ref="en"/>
+    <file name="nomq_en.css" crc="508130100" ref="en"/>
   </folder>
   <folder name="fonts">
     <file name="roboto-medium.woff" crc="4199445697"/>
@@ -58,16 +58,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="kravasevakuatorlv 1.jpg" crc="4248975628" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -75,16 +75,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="kravasevakuatorlv 2.jpg" crc="4146085364" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -92,16 +92,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="kravasevakuatorlv 3.jpg" crc="4036395155" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -109,16 +109,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="kravasevakuatorlv 4.jpg" crc="499886379" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -126,16 +126,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="kravasevakuatorlv 5.jpg" crc="518092194" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -143,16 +143,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="kravasevakuatorlv-01.jpg" crc="4103220017" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -160,16 +160,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="kravasevakuatorlv-03.jpg" crc="428688247" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -177,16 +177,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="kravasevakuatorlv-05.jpg" crc="3994690808" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -194,16 +194,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="kravasevakuatorlv-08.jpg" crc="3782305363" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -211,16 +211,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="kravasevakuatorlv-09.jpg" crc="419324799" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -228,16 +228,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="kravasevakuatorlv-10.jpg" crc="4025164178" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
@@ -245,16 +245,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:ru:en"/>
     <file name="splash90x95.png" crc="4208279365" seo="true" ref="index">
@@ -283,13 +283,13 @@
     <file name="u8433-m_2x.png" crc="211425736" ref="index"/>
     <file name="splash.png" crc="229762976" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="splash_2x.png" crc="3868271108" seo="true" ref="index:ru:en">
       <caption webpage="index" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="en" alt=""/>
     </file>
     <file name="splash86x91.png" crc="240673304" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -322,7 +322,7 @@
     <file name="u13906-m.png" crc="4155931262" ref="en"/>
     <file name="u13906-m_2x.png" crc="211425736" ref="en"/>
   </folder>
-  <file name="index.html" crc="97308556" seo="true" mt="1721159450735" redirect="true"/>
-  <file name="ru.html" crc="464079920" seo="true" mt="1721159434125" redirect="true"/>
-  <file name="en.html" crc="310647860" seo="true" mt="1721159427254" redirect="true"/>
+  <file name="index.html" crc="4024704677" seo="true" mt="1721159611540" redirect="true"/>
+  <file name="ru.html" crc="477970762" seo="true" mt="1721159615341" redirect="true"/>
+  <file name="en.html" crc="4273604133" seo="true" mt="1721159619317" redirect="true"/>
 </manifest>
